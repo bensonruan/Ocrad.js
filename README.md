@@ -2,7 +2,7 @@
 Unleash the OCR capabilities of Ocrad.js. Discover its simple and fast processing for text extraction from image.
 
 ## Live Demo
-**[https://bensonruan.com/ocradjs-extract-text-from-image-fast-and-simple/](https://bensonruan.com/ocradjs-extract-text-from-image-fast-and-simple/)**
+**[https://bensonruan.com/ocr-javascript-extract-text-from-image/](https://bensonruan.com/ocr-javascript-extract-text-from-image/)**
 
 ![ocrjs-demo](https://bensonruan.com/wp-content/uploads/2023/06/Ocradjs-Demo.gif)
 
